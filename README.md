@@ -11,7 +11,11 @@ UI Color Change via Twitch Commands.
 Future Plans:
 
 Sapien Naming.
+
 Entity Spawning.
+
 Entity Manipulation (Sickness, Instant growth, etc.)
+
 Season Control.
+
 Events.
