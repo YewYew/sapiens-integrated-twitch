@@ -1,4 +1,4 @@
-# SIT: Sapiens Twitch Integration
+# SIT: Sapiens Integrated Twitch
 
 An attempt to provide twitch integration as a lua mod for the WIP game, Sapiens.
 For now it will utilize the existing examples given by mjdave and implement them as commands.
